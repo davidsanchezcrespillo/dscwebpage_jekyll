@@ -16,8 +16,55 @@
 title: David Sánchez Crespillo
 description: > # this means to ignore newlines until "baseurl:"
   Personal site
-baseurl: "/david/" # the subpath of your site, e.g. /blog
+baseurl: "/david" # the subpath of your site, e.g. /blog
 url: "http://sanchezcrespillo.info/david" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+menu:
+          - title: Dev
+            url: "#"
+            items:
+            - title: LT Words
+              url: ltWords/web/index
+            - title: Labas Rytas
+              url: /labas_rytas/
+            - title: VKWebEdit
+              url: vkwebedit
+          - title: Music
+            url: "#"
+            items:
+            - url: kd2x3.html
+              title: KD2X3
+            - url: canciones_de_campamento.html
+              title: Canciones de Campamento
+            - url: retalls.html
+              title: Retalls
+          - title: CV
+            url: cv.html
+          - title: Blog
+            url: blog/index.html
+
+social:
+          - title: LinkedIn
+            url: http://www.linkedin.com/in/davidsanchezcrespillo
+            image: img/linkedin.png
+          - title: Facebook
+            url: http://www.facebook.com/davidsanchezcrespillo
+            image: img/facebook.png
+          - title: Github
+            url: https://github.com/davidsanchezcrespillo
+            image: img/github.png
+          - title: StackOverflow
+            url: http://stackoverflow.com/users/224368/dinopmi
+            image: img/stackoverflow.png
+
+footer:
+          - title: HTML5
+            url: http://validator.w3.org/check?uri=referer
+            image: img/html5_valid.png
+          - title: Made with Hyde
+            url: http://hyde.github.com
+            image: img/hyde.png
+

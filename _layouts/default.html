@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>{{ page.title }} - David Sánchez Crespillo</title>
+        <meta name="description" content="David Sánchez Crespillo - Personal web site" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:description" content="{{ page.title }}" />
+        <meta property="og:image" content="http://sanchezcrespillo.info{{ '/media/img/blanque.png' | prepend:site.baseurl }}" />
+        {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}" />{% endif %}
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="{{ '/media/css/style.css' | prepend:site.baseurl }}" />
+        <!--<script src="{{ '/media/js/modernizr.custom.js' | prepend:site.baseurl }}"></script>-->
+        <!--[if lt IE 9]>
+        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js">
+        </script>
+        <![endif]-->
+    </head>
+    <body>
+    <div class="container">
+
+      <div class="row" style="margin-bottom:10px;">
+        <div class="col-md-4 clearfix">
+        <div class="pull-left" style="margin-right:10px;">
+        <a href="{{ '/index.html' | prepend:site:baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="" style="margin-top:5px;"/></a>
+        </div>
+          <span class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></span>
+        </div>
+        <div class="col-md-4">
+          <div class="top-space">
+            {% include social_links.html %}
+          </div>        </div>
+        <div class="col-md-4">
+        {% include main_menu.html %}
+        </div>
+      </div>
+
+      <div class="row top-space">
+        <div class="col-xs-12">
+
+        </div>
+      </div>
+
+      <div>
+            {{ content }}
+      </div>
+
+      <div class="row" style="margin-top: 10px;">
+        <div class="col-xs-12">
+          <div class="text-right">
+            {% include footer_links.html %}
+          </div>
+        </div>
+      </div>
+
+    </div>
+  <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  </body>
+</html>

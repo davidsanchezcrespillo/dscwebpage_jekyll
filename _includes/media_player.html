@@ -3,22 +3,22 @@
   <tr><th>Title</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr>
   {% for item in page.tracklist %}
     <tr>
-    <td><a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend site.baseurl }}">{{ item.title }}</a></td>
+    <td><a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{{ item.title }}</a></td>
     <td>{% if item.description %} {{ item.description }} {% endif %}</td>
     <td><audio title="{{ item.title }}" controls="controls" preload="none">
-      <source src="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend site.baseurl }}" type="audio/mpeg"/>
-      <source src="{{ '/media/audio/' | append:item.url | append:'.ogg' | prepend site.baseurl }}" type="audio/ogg"/>
-      <a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend site.baseurl }}">{{ item.title }}</a>
+      <source src="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}" type="audio/mpeg"/>
+      <source src="{{ '/media/audio/' | append:item.url | append:'.ogg' | prepend:site.baseurl }}" type="audio/ogg"/>
+      <a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{{ item.title }}</a>
       </audio>
     </td>
     <td>
     {% if item.lyrics %}
-      <a class="a-lyrics" href="{{ '/media/audio/' | append:item.lyrics | prepend site.baseurl }}" title="Lyrics"></a>
+      <a class="a-lyrics" href="{{ '/media/audio/' | append:item.lyrics | prepend:site.baseurl }}" title="Lyrics"></a>
     {% endif %}
     </td>
     <td>
     {% if item.score %}
-      <a class="a-score" href="{{ '/media/audio/' | append:item.score | prepend site.baseurl }}" title="Score"></a>
+      <a class="a-score" href="{{ '/media/audio/' | append:item.score | prepend:site.baseurl }}" title="Score"></a>
     {% endif %}
     </td>
   </tr>
