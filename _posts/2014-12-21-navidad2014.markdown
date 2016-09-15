@@ -11,9 +11,8 @@ tags:
     - navidad
 ---
 
-{% from "macros.j2" import render_audioplayer with context %}
-{{ render_audioplayer(resource) }}
+{% include media_player.html %}
 
 ### ¡Feliz Navidad! Bon Nadal! Merry Christmas! Joyeux Noël! Linksmų Šventų Kalėdų!
 
-![Un paisaje extrañamente navideño...]([[!!img/navidad2014.jpg]])
+![Un paisaje extrañamente navideño...]({{ '/media/img/navidad2014.jpg' | prepend:site_baseurl }})
