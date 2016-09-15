@@ -1,0 +1,31 @@
+---
+title: Feliz Navidad 2008
+description: >
+    My Christmas Greetings for 2008 (in Spanish).
+created: !!timestamp '2008-12-25 10:00:00'
+tags:
+    - personal
+    - navidad
+---
+
+  * <a href="{{ media_url('audio/mp3_overtherainbow2.mp3')}}">Over The Rainbow</a>
+
+El cinismo, el desencanto y la tristeza
+
+no nos ayudan a ser más felices,
+
+aunque se disfracen de inteligencia.
+
+La inocencia, la ilusión y la alegría, en cambio,
+
+tan ingenuas como parecen, tan bobas,
+
+acaban haciendo el trabajo
+
+de empujarnos a salir adelante.
+
+¡Feliz Navidad!
+
+![La foto de los tres hermanos, una vez más...]([[!!img/jpg_nadal2008.jpg]])
+
+

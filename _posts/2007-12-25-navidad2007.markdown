@@ -1,0 +1,24 @@
+---
+title: Feliz Navidad 2007
+description: >
+    My Christmas Greetings for 2007 (in Spanish).
+created: !!timestamp '2007-12-25 10:00:00'
+tags:
+    - personal
+    - navidad
+---
+
+Aunque sólo sea por rebelarse contra los mercaderes, los colorines, las sonrisas falsas y las fiestas forzadas.
+
+Aunque sólo sea por reivindicar lo que hay de Navidad, de Natividad, de Nacimiento, de Humanidad en cada uno de nosotros, sin aspavientos.
+
+Aunque sólo sea por aprovechar, simplemente, para deciros que os quiero, desearos lo mejor, etc. Cualquier excusa es buena...
+
+Feliz Navidad, a todos. Feliz año 2008.
+
+  * <a href="{{ media_url('audio/mp3_nochedepaz.mp3')}}">Noche de Paz</a>
+  * <a href="{{ media_url('audio/mp3_adeste08_128.mp3')}}">Adeste Fideles</a>
+ 
+![Vista de Santo Domingo de los Colorados (Ecuador)]([[!!img/jpg_nadal2007d.jpg]])
+![La ya clásica foto navideña de los tres hermanos Sánchez Crespillo]([[!!img/jpg_nadal2007.jpg]])
+

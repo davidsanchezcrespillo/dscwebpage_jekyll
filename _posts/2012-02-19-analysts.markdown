@@ -1,0 +1,17 @@
+---
+title: Analysts
+description: >
+    An insightful quotation.
+created: !!timestamp '2012-02-19 16:00:00'
+tags:
+    - development
+    - IT_Services
+---
+
+_It is interesting to note the number of job titles for IT
+professionals that contain the word ‘analyst’ and even
+more surprising to discover that few of them actually
+analyse anything._
+
+(From the __ITIL v3 Official Introduction book__).
+

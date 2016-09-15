@@ -1,0 +1,36 @@
+---
+title: Feliz Navidad 2006
+description: >
+    My Christmas Greetings for 2006 (in Spanish).
+created: !!timestamp '2006-12-25 10:00:00'
+tags:
+    - personal
+    - navidad
+---
+
+No, no acostumbro a felicitar la Navidad.
+
+Por un lado, por pereza, y punto. Por otro lado, porque el "tinglado navideño" me repatea cada vez más con los años (y eso que no tengo tele). Y además, tanto "tráfico de mercancías" en estas fechas parece querer ocultar el hecho de que celebramos algo tan simple y milagroso como el nacimiento de un niño.
+
+No obstante, este año haremos una excepción, para variar...
+
+Os dejo dos "postales sonoras", una es "inventada", y otra es una pieza "tradicional". Posibles comentarios que he previsto son los siguientes:
+
+  * ¿Te aburrías en casa?
+  * Yo de ti me dedicaría a la repostería.
+  * Bueno, por lo menos no cantas.
+  * Si te vamos a querer igual, tonto...
+
+En todo caso, está hecho con cariño, y como eso lo disculpa todo, pues ahí queda...
+
+
+* <a href="{{ media_url('audio/mp3adeste.mp3') }}">Adeste Fideles</a>
+* <a href="{{ media_url('audio/mp3_xmas2006.mp3') }}">Xmas 2006</a>
+
+
+Ah, me olvidaba, adjunto la tradicional "foto navideña" con mis hermanos. Las "tomas falsas" han sido convenientemente censuradas, aunque viendo la que hemos dado por buena, os podéis hacer una cierta idea... ;-)
+
+Feliz Navidad, Feliz Año 2007, a pesar de todo. Os quiere...
+
+![BrothersXmas2006]([[!!img/jpgnadal2006brothers.jpg]])
+

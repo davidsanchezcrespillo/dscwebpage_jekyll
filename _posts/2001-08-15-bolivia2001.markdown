@@ -1,0 +1,119 @@
+---
+title: Bolivia 2001
+description: >
+    Some texts I wrote about a summer mission I participated in Bolivia the year 2001.
+created: !!timestamp '2001-08-15 10:00:00'
+tags:
+    - personal
+    - viajes
+---
+
+
+##Diario desordenado de Santa Cruz 2001. Volumen 1.
+
+20/07/2001
+
+Santa Cruz de la Tierra, la llaman. Vientos semihuracanados. Terreno de arena. Asfaltado en progreso. Alcantarillado inexistente. Un invierno de 35ºC. La amenaza del viento sur, que hace bajar las temperaturas 15 grados de golpe...
+
+Para hacernos una idea acerca de esta ciudad, decir que hacia 1960 tenía unos 50.000 habitantes. Cuando empezaron las primeras migraciones, se fueron construyendo anillos concéntricos alrededor del centro antiguo de la ciudad, con la previsión de que el número de habitantes en el 2000 sería menos del doble, unos 90.000. A fecha de hoy, antes de que se realice un censo, que toca este año, son más o menos 1.500.000 habitantes.
+
+Podría decir que escribo desde el país más pobre y más corrupto de América, pero eso lo sabe cualquiera que se informe mínimamente. Aquí se ve el tema de forma más clara. Al crecer tanto la ciudad, se han formado bolsas de miseria espeluznantes. Los anillos concéntricos de los que hablaba llegan al número de 11, y seguirá creciendo.
+
+Yo escribo desde un barrio llamado Guaracal, en la 7ª travesía de la Radial 13, entre el tercer y cuarto anillo. Es uno de los lugares donde empieza uno a alejarse del centro. Mi tarea se desarrolla pasado el cuarto anillo, en un colegio situado a unos quince minutos caminando. Es una zona con un riesgo relativamente bajo, aunque no conviene salir solo al anochecer. Yo salgo del colegio siempre acompañado, al menos en el tramo más conflictivo.
+
+Me alojo en la residencia que los misioneros identes tienen en el barrio del Guaracal. En otras zonas de Bolivia, el flujo de voluntarios es más abundante, y hay que buscar alojamientos alternativos, pero aquí no es necesario. La comunidad la forman cuatro misioneros y tres misioneras, que viven en casas separadas contiguas. Y además, el voluntario mallorquín :-)
+
+Mi trabajo tiene lugar en un colegio llamado "Ciudad del Niño Jesús", en el barrio Los Olivos. Toda Santa Cruz está dividida en pequeños barrios, llamados Unidades Vecinales, formadas por los espacios que dejan los radiales y los anillos. Se puede comparar al dibujo de una diana de dardos...
+
+Decía que el colegio "Ciudad del Niño Jesús" es un colegio que en España llamaríamos "concertado". La gestión es llevada a cabo por los misioneros identes, pero el Estado aporta una parte (por ejemplo, la energía eléctrica). El número de alumnos aproximado es de unos 2.300, en turnos de mañana, tarde y noche, entre primaria y secundaria. El terreno asignado para el colegio ocupa una superficie de unas 5 hectáreas. Hay construidas el número de aulas mínimo para funcionar "in extremis" con este número de alumnos.
+
+El complejo de construcciones consiste básicamente en la iglesia, el conjunto de aulas, el campo de deportes, y una construcción dedicada a administración, biblioteca, sala de ordenadores, etc. En esta última construcción es donde estoy trabajando en mi pequeño proyecto de mejora.
+
+¿Y a qué me dedico? Mi trabajo principal consiste, en principio, en una "mejora de la infraestructura informática". Es decir, mejorar lo mejorable en el aspecto de ordenadores (hardware y software) y conexión a Internet.
+
+¿Qué me he encontrado? Pues unas 20 máquinas, con procesadores a partir de 300 MHz, entre 32 y 64 Mb de memoria, y discos duros entre 2 y 4 GB (para quien no comprenda esta jerga, máquinas dignas). Cuatro profesores de informática y un técnico de sistemas, que llevan adelante cursos de formación de alumnos en manejo de Windows y ofimática (Word, Excel, PowerPoint). La formación de los profesores es, en pocas palabras, "Ofimática básica". El técnico conoce un poco más el tema de Internet.
+
+¿Cuáles son mis planes? Primero, implantación de software gratuito para evitar el pago de licencias de software abusivas. Por ello, estamos instalando un paquete ofimático llamado StarOffice que sustituye (más que dignamente) al MS Office para las tareas de enseñanza y utilización. Además, estamos instalando un sistema operativo llamado Linux, que sustituye a Windows. Hemos hecho pruebas con Linux Mandrake 8.0, y el resultado ha sido muy satisfactorio, por ahora.
+
+Segundo, formación, formación, formación. Hoy algunos de los profesores de informática han descubierto la navegación por Internet. También necesitan adaptarse al nuevo paquete ofimático (trivial), y al manejo y administración de Linux. Buscaremos recursos para la formación continua (convenios con alguna de las universidades de allí, grupo de usuarios de Linux de Santa Cruz...).
+
+Tercero, infraestructuras. Si las cosas van bien, intentaremos contratar Internet por cable para el colegio, y conectar los ordenadores de la sala de esta forma (hay algo de material para montar una red local). Es decir, ofrecer Internet a todos los miembros de la comunidad educativa.
+
+Cuarto, acondicionamiento de recursos (catálogo de la biblioteca, del software disponible, etc.).
+
+Por no aburrir a nadie, no entraré en más detalles. El trabajo lo hemos planteado como un equipo de 6 personas, en base a distintas tareas que tendrán lugar en grupos de dos o tres, y que tendrán una duración corta. Tres semanas durará el experimento. De momento, los profesores están respondiendo muy positivamente.
+
+Por aquí pasa gente continuamente. Hace una semana estuvo de paso un misionero que vino de San Ignacio de Velasco, para hacer unas gestiones. Hoy se han marchado dos misioneros de New York, que están realizando una gira por Bolivia, para reunir datos para pedir financiación para los proyectos que se llevan a cabo aquí. Esta mañana han llegado dos arquitectos de Barcelona que van como voluntarios a San Ignacio de Velasco, a construir edificios en adobe. Mañana por la mañana llegan otras cuatro arquitectas... Ya casi me siento veterano, y no llevo ni una semana :-)
+
+Hasta aquí una primera impresión. Hay muchos más detalles (charlas sobre política, vocabulario curioso, busquen lo que es un "anticrético", proyectos alternativos, chistes, cafés, tés, mates, empanadas...), pero son largas de contar. Quizá en otro mensaje, si el tiempo acompaña...
+
+Hala, hasta pronto, por carta o en persona :-)
+
+## Diario desordenado de Santa Cruz 2001. Volumen 2
+				
+2 de agosto del 2001
+
+Quizá la imagen que se tiene en el extranjero de Bolivia está polarizada hacia el Altiplano (La Paz, Potosí, Oruro y alrededores). En cambio, de la zona en la que me encuentro se habla menos. Son dos realidades distintas, tanto en climatología como en forma de ser de los habitantes.
+
+A los habitantes del Altiplano se les llama "Collas". Son los que responden a la imagen "andina" de Bolivia. Tienen fama de comerciantes empedernidos. En cambio, los habitantes de la zona de Santa Cruz se llaman "Cambas".
+
+Hace una semana llegó el Viento Sur, que venía desde Argentina. Con él vino, de repente, de la noche a la mañana, el frío y la lluvia. El Surazo, como lo llaman, dejó barro, caras de frío, y un atasco considerable en Santa Cruz, por el estado de las carreteras. A eso se le suman las obras de asfaltado de una avenida muy céntrica, la Santos Dumond, que hace que el tráfico se tenga que desviar por callejuelas que son auténticos barrizales.
+
+En Bolivia hay unas cuantas decenas de universidades distintas, aparte de la estatal. Sólo en Santa Cruz funciona un buen puñado, como la Gabriel René Moreno (pública), la Católica Boliivana, la Evangélica, la NUR, la UPSA, y qué sé yo... He visitado dos de ellas hasta ahora. La Católica, para ir a la lectura de una tesis, y la NUR, para asistir a una reunión del Grupo de Usuarios de Linux de Santa Cruz. La reunión debía estar bien escondida, porque no vimos a nadie :-|
+
+Para moverse por Santa Cruz, se utilizan normalmente tres medios: Los autobuses (micros), los taxis, y los taxis con recorrido fijo (trufis, más baratos). Los micros (de "microbús") son apropiados para la estatura media boliviana sentados. Si tienes que ir de pie, puede ser realmente cargante (para la espalda). No hay paradas de autobús, cada cual lo espera donde quiere y lo hace parar. Para solicitar parada desde dentro, se hace a viva voz.
+
+Los taxis se distinguen, sobre todo, por el letrero, ya que no hay un color que los identifique. Conviene ir con precaución cuando se toma un taxi en un lugar público, porque se dan de vez en cuando casos de falsos taxistas que asaltan a los viajeros. Es mejor tomar un taxi en marcha.
+
+El sábado viajé en flota (autobús de línea) a la zona de San Ignacio de Velasco. El viaje dura toda la noche (de 20,00 a 06,30, aproximadamente), y son unos 500 km, de los cuales la mitad están asfaltados. Mi destino era la Escuela Agropecuaria de San Miguelito, a unos 20 km. de San Ignacio, donde los Misioneros Identes llevan un colegio interno, que además es una granja, con ganado (unas 1500 cabezas), pastos, etc. La vida allí es bastante campestre (como un campamento en algún lugar recóndito de Burgos, por ejemplo), con cuatro horas de electricidad al día (cuando se encienden los motores), alimentos propios (allí se fabrica pan y queso, entre otras cosas), trabajos propios de la granja (vacunación de animales, carpintería, pastoreo, etc), sin teléfono, sin más comunicación que las furgonetas de allí. He estado cuatro días allí, más que nada de visita, sin ningún trabajo especial, echando una mano en lo que podía. He tenido ocasión de torcerme el meñique jugando a voley, apagar un pequeño incendio en la zona de prados, vivir un reventón de una rueda, ver películas con los chicos del colegio, hacer fotos, filmar 10 minutitos de vídeo (hasta que se acabó la batería de la cámara), pasear, cargar con un par de troncos de madera de cuchi (un árbol tropical de madera durísima y pesadísima), que llaman "el hierro boliviano"... En fin, un cambio en la rutina de la vida de ciudad, como unas pequeñas vacaciones :-)
+
+Toda la zona de San Ignacio de Velasco está formada por pequeños pueblos que fueron fundados hace unos 3 siglos por los jesuitas. La zona recibe el nombre de Chiquitania, y se pueden encontrar verdaderas maravillas culturales y arquitectónicas. Entre el legado cultural de los jesuitas se pueden ver las iglesias que hay en cada pueblo (San Miguel, Santa Ana, San Ignacio), y la cantidad ingente de música barroca que forma parte de la tradición chiquitana. No es extraño ver aquí niños con el violín al hombro ejecutando música barroca de forma espontánea. Cada dos años se celebra en San Ignacio un festival de música barroca, y las iglesias de los pueblos de la zona funcionan coros estables con una amplia tradición. Quienes hayan visto la película "La Misión" se pueden dar cuenta de las semejanzas.
+
+En San Miguelito hay en este momento cuatro arquitectos de Barcelona realizando una construcción de duchas para los chicos. Es un proyecto pequeñito, y están aprovechando para conocer el lugar, con vistas a preparar un proyecto más ambicioso el año que viene.
+
+En San Ignacio (sólo a 20 km., pero un mundo de distancia), hay otros 6 arquitectos, trabajando a tres bandas con un proyecto ya desarrollado. Dos de ellos ya fueron el año pasado, y prepararon el proyecto para la construcción de varias edificaciones. Una biblioteca, unas aulas, etc. Están trabajando en tres barrios distintos del pueblo, por parejas, y permanecerán allí durante dos meses.
+
+Hablando otra vez de máquinas, bits y bytes, el proyecto de formación que llevo a cabo sigue adelante. Después de las pruebas preliminares, hemos estado instalando Linux y StarOffice en las máquinas que se podía acceder a un lector de CD-ROM, para no perder mucho tiempo, y antes de partir para San Ignacio dejamos listas las bases para la utilización de Linux a nivel de usuario, para los profesores de computación, y un curso básico de introducción a Internet, que preparó el técnico de instalaciones del colegio. Estamos ya evaluando las conexiones para organizar la red local, y pronto acabaremos con ella.
+
+En los 12 días que faltan, tenemos pendiente acabar de preparar la red local, montar una base de datos con los recursos bibliográficos, videográficos, y en CD-ROM y música de la biblioteca, organizar una batería de charlas introductorias para el resto de los profesores del colegio, sobre las posibilidades didácticas de la computación, dar formación sobre diseño web, y dejar empezada la página web del colegio Ciudad del Niño Jesús. Con un poco de alegría, y algo de ánimo, puede ser posible. También tenemos pendientes las gestiones con la empresa de cable para que ofrezca cable al colegio, pero no sé si se podrá instalar antes de que yo me vaya. "Las cosas de palacio van despacio".
+
+Fin de la segunda parte. Seguiremos informando.
+
+Por cierto, un anticrético es una figura legal por la que una persona entrega cierto dinero a cambio del usufructo (uso y disfrute) de una vivienda, habitación, etc, durante un tiempo. Al cabo de ese tiempo, le devuelven lo que entregó. Si no se lo pueden devolver, se queda con la vivienda. Aquí se funciona mucho con anticréticos.
+
+## Diario desordenado de Santa Cruz 2001. Volumen 3
+
+2 de agosto del 2001
+
+No todo es trabajar en esta vida. Un pequeño inciso sobre fiestas y ocio en Santa Cruz, hasta donde yo he alcanzado a ver... ;-)
+
+El cine aquí, como en toda Sudamérica, es en versión original subtitulada. Ver una película doblada con acento español resulta aquí tan extraterrestre como los dibujos animados aquellos que doblaban hace algunos años, los de Hanna Barbera (Scooby Doo, el Oso Yogui, etc). Ir al cine es un pequeño lujo que poca gente puede pagarse. En Santa Cruz hay aproximadamente la mitad, o una tercera parte de los cines que hay en Palma. Las películas que están en cartelera actualmente, entre otras, son "The Body" y "Pearl Harbour" (estrenada el viernes pasado).
+
+En Santa Cruz está muy de moda celebrar el 15 cumpleaños de los chicos con una fiesta sonada. Yo pude ir a una de estas fiestas, con música en directo, baile en un patio interior, etc. Aquí la bebida la sirven al principio, después continúan con bebida, siguen con algo de bebida, y al cabo del tiempo traen la comida. Beber alcohol ("tomar") tiene un sentido bastante distinto al que le damos en España, donde se toma una cerveza, dos, tres... hasta un cierto límite. Aquí, quien bebe, en la mayoría de casos, lo hace para emborracharse, sin más. Por eso, aquí no es nada frecuente beber alcohol con las comidas, como en España.
+
+El baile aquí, aparte de una diversión, es casi una obligación social. Quien está en una fiesta debe bailar, al menos un poquito, por cuestión de "educaçao". La música es, en su mayor parte, cumbia, merengue, samba, etc. El pop-rock es más bien minoritario en las fiestas.
+
+Cuando estuve en San Miguelito, coincidió con la fiesta de San Ignacio de Loyola (31 de julio). En S. Ignacio de Velasco ese día (y el anterior, y el siguiente), es feriado (festivo), y se celebra una feria de ganado. Hubo espectáculo de rodeo, peleas de gallos, música y baile... Los cinco voluntarios del Planeta San Miguelito nos fuimos allí a la fiesta. Por mi parte, queda claro que necesito lecciones de baile... pero que no es tan difícil, una vez se encuentra uno allí enmedio :-). Creo que conseguí destruir todas las fotos. Lo que se diga de mí será sólo oral, sin pruebas. :-D
+
+Y poco más en cuestión de ocio. Alguna parrillada de pescado (de río, muy bueno), una visita al santuario de la Virgen de Cotoca (patrona de Santa Cruz), y un par de paseos por el Centro. Seguiremos informando, cuando haya algo más :-)
+
+## Diario desordenado de Santa Cruz 2001. Volumen 4
+
+13 de agosto del 2001
+
+Últimas 48 horas. Quemando los últimos cartuchos de trabajo, gestiones, despedidas, planes de futuro para cuando me vaya, etc.
+
+En cuanto a gestiones, nos hemos movido. Nos entrevistamos con el director de ITS, una compañía de TV e Internet por cable, para ver si podemos colaborar, y conseguir Internet de alta velocidad para el colegio. Hoy hemos hablado con el director de la carrera de Sistemas en la Univ. Católica, y parece que nos van a apoyar. El sábado estuvimos en una de las reuniones del Grupo de Usuarios de Linux de Santa Cruz, y les gustó la idea de implantar Linux en colegios públicos (o concertados), que estamos llevando a cabo. Por lo menos, hemos dejado algún cable echado para el futuro...
+
+... Y esto se acaba. Procuro resistir la tentación de hacer balance antes de acabar el trabajo. El objetivo de esta visita no era tanto realizar actividades "finalistas" (instalar Linux en xx ordenadores, imprimir xxx.xxx manuales), como iniciar nuevos caminos, tirar cables, formar a la gente que está aquí para que siga adelante con el trabajo iniciado. No es fácil evaluar eso, y no se puede hablar nunca de éxitos o fracasos en términos precisos.
+
+La filosofía de este tipo de colaboraciones, por otra parte, está en el fomento de un intercambio personal. El mero hecho de estar aquí, de haber hecho algo sin molestar, de haber aprendido mucho sobre la forma de vida de aquí, el haber enseñado a la gente de dónde vengo, y cómo se vive, ya es un logro interesante, aunque no hubiera hecho nada bueno :-)
+
+En cuanto a anécdotas, miles, como siempre. Esta es la tierra de los milagros, para bien o para mal. Los cojos oyen, los ciegos andan, los sordos ven X-D. Visitas inesperadas a la sala de morfología de la Universidad, charlas con la gente, varios cafés y tés al día en la parroquia, paseos por las calles de Santa Cruz, música folklórica del Oriente Boliviano, cumbias, improvisaciones con el coro de la iglesia, regateos en los taxis, mensajes de email procedentes de la cárcel, y todo lo que se nos ocurra. Nada del otro jueves, esto no es el Macondo de García Márquez, pero esto es real.
+
+Dejaré Bolivia prácticamente igual que cuando llegué, con otro presidente, en medio de fiestas (el 15 de agosto es la fiesta de la Virgen de Urkupiña, venerada en Cochabamba). Hace una semanita fue la fiesta nacional, y hubo desfiles cívicos por todo, aquí todo el mundo desfila. Con los días feriados (festivos) ocurre un fenómeno de alargamiento. A veces se alargan hasta el día siguiente ;-).
+
+Sólo un apéndice: Me parece que he recibido todos los mensajes de correo electrónico que se me han enviado. No he contestado ninguno, pero los agradezco todos :-). Cuando llegue a mi pueblo, contestaré a todos. Muchas gracias por todos los mensajes, la verdad es que da gusto sentirse tan cerca, aunque haya un océano en medio.
+
+Hala, hasta pronto.
+
