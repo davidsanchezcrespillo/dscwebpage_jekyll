@@ -1,0 +1,119 @@
+/** Improving the contrast a little bit */
+
+a {
+    color: #024b8a;
+}
+
+.btn-primary {
+    background-color: #024b8a;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: #024b8a;
+}
+
+/********/
+
+a.backlink:before{
+    content: '\2190';
+}
+
+a.prev:before{
+    content: '\00AB';
+}
+
+a.next:after{
+    content: '\00BB';
+}
+
+.blog_excerpt {
+    padding: 6px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #bdbdbd;
+}
+
+table.publications td.publication-title {
+    width: 200px;
+    font-weight: bold;
+}
+
+.a-download {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    background-image: url('../img/icon-download.png');
+}
+
+.a-lyrics {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    background-image: url('../img/icon-lyrics.png');
+}
+
+.a-score {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    background-image: url('../img/icon-score.png');
+}
+
+
+.tile {
+    padding: 0;
+    min-height: 100px;
+    text-align: center;
+    border: 0;
+    position: relative;
+}
+
+.tile-figure {
+    position: relative;
+}
+
+.tile img {
+  max-width: 100%;
+  -webkit-filter: sepia(0);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: sepia(0); 
+  -moz-transition: .5s ease-in-out;
+  -o-filter: sepia(0); 
+  -o-transition: .5s ease-in-out;
+  filter: sepia(0);
+}
+
+.tile img:hover {
+  -webkit-filter: sepia(1);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: sepia(1);
+  -moz-transition: .5s ease-in-out;
+  -o-filter: sepia(1);
+  -o-transition: .5s ease-in-out;
+  filter: sepia(1);
+}
+
+.tile-caption {
+    position: absolute;
+    font-size: 1.2em;
+    
+    right: 0; bottom: 0; left: 0;
+    
+    background: black; /* fallback */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#bb000000, endColorstr=#bb000000); /* IE fix */
+    background: rgba(0,0,0,.7); /* transparent background */  
+    color: #fff; 
+  
+    padding: 10px;    /* padding around text */    
+}
+
+.header-title {
+    font-size: 1.6em;
+    vertical-align: top;
+}
+
+.top-space {
+    margin-top: 5px;
+}
+
