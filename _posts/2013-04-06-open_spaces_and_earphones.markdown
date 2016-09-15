@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Open spaces and earphones
 description: Or "how I learned to stop worrying and listen to music while working".
-created: !!timestamp '2013-04-06 18:00:00'
-tags:
+date: '2013-04-06 18:00:00'
+categories:
     - development
     - open_spaces
     - workplace

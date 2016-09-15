@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Respect Production Code
 description: >
     Or "how I learned to stop worrying and love code that just works".
-created: !!timestamp '2012-04-19 18:00:00'
-tags:
+date: '2012-04-19 18:00:00'
+categories:
     - development
 ---
 

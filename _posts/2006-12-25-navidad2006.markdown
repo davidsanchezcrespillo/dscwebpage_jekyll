@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Feliz Navidad 2006
 description: >
     My Christmas Greetings for 2006 (in Spanish).
-created: !!timestamp '2006-12-25 10:00:00'
-tags:
+date: '2006-12-25 10:00:00'
+categories:
     - personal
     - navidad
 ---
@@ -24,13 +25,13 @@ Os dejo dos "postales sonoras", una es "inventada", y otra es una pieza "tradici
 En todo caso, está hecho con cariño, y como eso lo disculpa todo, pues ahí queda...
 
 
-* <a href="{{ media_url('audio/mp3adeste.mp3') }}">Adeste Fideles</a>
-* <a href="{{ media_url('audio/mp3_xmas2006.mp3') }}">Xmas 2006</a>
+* <a href="{{ '/media/audio/mp3adeste.mp3' | prepend:site.baseurl }}">Adeste Fideles</a>
+* <a href="{{ '/media/audio/mp3_xmas2006.mp3' | prepend:site.baseurl }}">Xmas 2006</a>
 
 
 Ah, me olvidaba, adjunto la tradicional "foto navideña" con mis hermanos. Las "tomas falsas" han sido convenientemente censuradas, aunque viendo la que hemos dado por buena, os podéis hacer una cierta idea... ;-)
 
 Feliz Navidad, Feliz Año 2007, a pesar de todo. Os quiere...
 
-![BrothersXmas2006]([[!!img/jpgnadal2006brothers.jpg]])
+![BrothersXmas2006]({{ '/media/img/jpgnadal2006brothers.jpg' | prepend:site.baseurl }})
 

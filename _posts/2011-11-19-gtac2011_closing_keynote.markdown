@@ -1,9 +1,10 @@
 ---
+layout: post
 title: GTAC 2011 Closing Keynote
 description: >
     Or "what makes the big players big".
-created: !!timestamp '2011-11-19 10:00:00'
-tags:
+date: '2011-11-19 10:00:00'
+categories:
     - development
 ---
 

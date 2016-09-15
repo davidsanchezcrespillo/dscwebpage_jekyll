@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Camino Portugués 2004
 description: >
     A short description of the Camino de Santiago I made during the summer of 2004.
-created: !!timestamp '2004-09-15 10:00:00'
-tags:
+date: '2004-09-15 10:00:00'
+categories:
     - personal
     - viajes
 ---

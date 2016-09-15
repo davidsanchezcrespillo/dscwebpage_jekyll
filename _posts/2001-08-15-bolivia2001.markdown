@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Bolivia 2001
 description: >
     Some texts I wrote about a summer mission I participated in Bolivia the year 2001.
-created: !!timestamp '2001-08-15 10:00:00'
-tags:
+date: '2001-08-15 10:00:00'
+categories:
     - personal
     - viajes
 ---

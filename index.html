@@ -1,23 +1,17 @@
 ---
 layout: default
+title: "Home"
+url: index.html
 ---
 
-<div class="home">
+<div class="row" style="margin-left: 0; margin-right: 0;">
+{% include render_tile.html span="4" title="LTWords" url="/ltWords/web/index" img="kauno_rotuse.jpg" %}
+{% include render_tile.html span="4" title="Labas Rytas" url="/labasrytas/" img="rytas.jpg" %}
+{% include render_tile.html span="4" title="VKWebEdit" url="/vkwebedit/" img="vkwebedit.png" %}
+</div>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="row" style="margin-left: 0; margin-right: 0;">
+{% include render_tile.html span="4" title="Retalls" url="/retalls.html" img="patchwork.jpg" %}
+{% include render_tile.html span="4" title="KD2X3" url="/kd2x3.html" img="microphone.jpg" %}
+{% include render_tile.html span="4" title="Canciones de campamento" url="/canciones_de_campamento.html" img="fuegoCampamento.jpg" %}
 </div>

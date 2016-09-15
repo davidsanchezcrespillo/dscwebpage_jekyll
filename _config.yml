@@ -42,29 +42,29 @@ menu:
             - url: retalls.html
               title: Retalls
           - title: CV
-            url: cv.html
+            url: /cv.html
           - title: Blog
-            url: blog/index.html
+            url: /blog.html
 
 social:
           - title: LinkedIn
             url: http://www.linkedin.com/in/davidsanchezcrespillo
-            image: img/linkedin.png
+            image: /media/img/linkedin.png
           - title: Facebook
             url: http://www.facebook.com/davidsanchezcrespillo
-            image: img/facebook.png
+            image: /media/img/facebook.png
           - title: Github
             url: https://github.com/davidsanchezcrespillo
-            image: img/github.png
+            image: /media/img/github.png
           - title: StackOverflow
             url: http://stackoverflow.com/users/224368/dinopmi
-            image: img/stackoverflow.png
+            image: /media/img/stackoverflow.png
 
 footer:
           - title: HTML5
             url: http://validator.w3.org/check?uri=referer
-            image: img/html5_valid.png
-          - title: Made with Hyde
-            url: http://hyde.github.com
-            image: img/hyde.png
+            image: /media/img/html5_valid.png
+          - title: Made with Jekyll
+            url: https://jekyllrb.com/
+            image: /media/img/hyde.png
 

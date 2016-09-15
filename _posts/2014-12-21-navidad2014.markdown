@@ -1,12 +1,12 @@
 ---
+layout: post
 title: Feliz Navidad 2014
-title_ending: Feliz Navidad 2014
 description: My Christmas Greetings for 2014 (in Spanish).
-created: !!timestamp '2014-12-21 10:00:00'
+date: '2014-12-21 10:00:00'
 tracklist:
   - title: El Noi de la Mare
     url: el_noi_de_la_mare_2014
-tags:
+categories:
     - personal
     - navidad
 ---

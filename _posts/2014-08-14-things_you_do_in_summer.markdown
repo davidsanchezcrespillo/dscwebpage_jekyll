@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Things you do in summer
 description: Or "how I learned to stop worrying and getting some things done".
-created: !!timestamp '2014-08-14 18:00:00'
-tags:
+date: '2014-08-14 18:00:00'
+categories:
     - summer
     - music
     - web
@@ -15,8 +16,8 @@ In my case, I fantasize a lot during the year, but my real accomplishments are m
 This summer, however, besides the usual housekeeping tasks you do during this period of the year, I managed to get some things done: I put together a couple of "web projects" and some music. Even if they are not perfect at all here they are:
 
 - [Labas Rytas](/labas_rytas), a [Drupal](http://www.drupal.org)-based website containing some resources for learning Lithuanian.
-- [LTFeeds]({{ content_url('ltFeeds') }}), an [Angular](http://www.angularjs.org)-base web application to read some feeds. For this particular
+- [LTFeeds](https://github.com/davidsanchezcrespillo/feedReader), an [Angular](http://www.angularjs.org)-base web application to read some feeds. For this particular
 instance, I have used feeds from Lithuanian media (yes, I am learning some Lithuanian!).
-- [Retalls]({{ content_url('retalls.html') }}), "trimmings" in Catalan, some old and new amateurish music.
+- [Retalls]({{ '/retalls.html' | prepend:site.baseurl }}), "trimmings" in Catalan, some old and new amateurish music.
 
 I am not particularly proud of the result (don't be too harsh with them!), but I am really happy of having managed to "launch" them. There will be plenty of time to improve them in the future, maybe next summer...

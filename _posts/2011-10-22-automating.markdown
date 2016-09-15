@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Automating
 description: >
     Or how I learned to stop worrying and love repetition.
-created: !!timestamp '2011-10-22 10:00:00'
-tags:
+date: '2011-10-22 10:00:00'
+categories:
     - development
 ---
 

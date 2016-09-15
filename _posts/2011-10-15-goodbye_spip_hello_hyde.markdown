@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Goodbye SPIP, hello Hyde!
 description: >
     Or "how I learned to stop worrying and love static website generators".
-created: !!timestamp '2011-10-15 10:00:00'
-tags:
+date: '2011-10-15 10:00:00'
+categories:
     - website
 ---
 

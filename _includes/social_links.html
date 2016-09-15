@@ -2,7 +2,7 @@
 {% for social_item in site.social %}
 <li>
 <a href="{{ social_item.url }}" title="{{ social_item.title }}">
-<img src="{{ media_url(social_item.image) }}" title="{{ social_item.title }}"  alt="{{ social_item.title }}" height="48" width="48" />
+<img src="{{ social_item.image | prepend:site.baseurl }}" title="{{ social_item.title }}"  alt="{{ social_item.title }}" height="48" width="48" />
 </a>
 </li>
 {% endfor %}

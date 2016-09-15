@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Dependency Injection in practice
 description: >
     Or "how I learned to stop worrying and love Dependency Injection".
-created: !!timestamp '2012-03-30 18:00:00'
-tags:
+date: '2012-03-30 18:00:00'
+categories:
     - development
     - patterns
 ---
