@@ -18,7 +18,7 @@ tracklist:
 
 <img class="pull-right" src="{{ '/media/img/microphone.png' | prepend:site.baseurl }}" alt="Microphone image" />
 
-#KD2X3
+# KD2X3
 
 KD2X3 was a vocal band. We sang together since May 1999 until the end of 2001.
 
@@ -27,17 +27,17 @@ The KD2X3 repertory included original pieces, jazz standards, pop-rock, folk mus
 Its members were Pep Alarcón Pinya (conductor), Guillem Gelabert Deià, Toni Salvà Andreu, David Sánchez Crespillo, Sílvia Girón Llull, Xisca Campins Bibiloni and Marga Cloquell Ferretjans.
 
 
-##Recordings
+## Recordings
 
 KD2X3 recorded a demo CD during May 2001, called “Ben entonats”. in the Ona Digital recording studios, under the guidance of Miquel Brunet. The songs are available at the following links:
 
 {% include media_player.html %}
 
-##Concerts
+## Concerts
 
 During its activity period, KD2X3 performed in a number of concerts. An incomplete list follows:
 
-###With other choirs
+### With other choirs
 
   * Santiago de Compostela. 9 May 1999.
   * Església Parroquial de Consell. 15 May 1999.
@@ -50,7 +50,7 @@ During its activity period, KD2X3 performed in a number of concerts. An incomple
   * Santa Eugènia. 2 January 2000.
   * Parròquia Sant Josep Obrer. Palma. 8 January 2000.
 
-##Solo concerts:
+## Solo concerts:
 
   * Teatre municipal. Pòrtol. 9 June 1999.
   * Pregó de festes. Muro. 18 June 1999.

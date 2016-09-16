@@ -3,13 +3,13 @@ layout: default
 title: "CV"
 ---
 
-<a href="#publications">Publications</a> | <a href="#masterthesis">Master Thesis</a>
+<p><a href="#publications">Publications</a> | <a href="#masterthesis">Master Thesis</a></p>
 
-#CV
+# CV
 
 Find below a __100-words version__ of my CV. For more details, check my [LinkedIn profile](http://www.linkedin.com/in/davidsanchezcrespillo).
 
-###Work experience
+### Work experience
 
   * [European Commission](http://ec.europa.eu/dgs/scic). Information and Communication Assistant. __2012 - present__.
   * [Acapela Group](http://www.acapela-group.com) (Voice Software - Belgium). Software Engineer. __2010-2012__.
@@ -18,16 +18,16 @@ Find below a __100-words version__ of my CV. For more details, check my [LinkedI
   * [University of Balearic Islands](http://www.uib.es) (University - Spain). 3D Programmer and Researcher. __1998-2000__
   * [Infomallorca IAE](http://www.infomallorca.net) (Touristic Services - Spain). Computer Operator. __1997-1998__
 
-###Education
+### Education
 
   * [University of Balearic Islands](http://www.uib.es). Engineer in Computer Science.  __2000__
   * [University of Balearic Islands](http://www.uib.es). Official Teaching Certificate. __2003__
 
-###Languages
+### Languages
 
   * __Spanish__ (Native), __Catalan__ (Native), __English__ (C2), __French__ (B2).
 
-###Skills
+### Skills
 
   * Development (Java, PHP, Perl, C++, C#).
   * Tools (Unit Testing, Continuous Integration, Version Control).
@@ -35,7 +35,7 @@ Find below a __100-words version__ of my CV. For more details, check my [LinkedI
 
 ---
 
-##<a name="publications"></a>Publications
+## <a name="publications"></a>Publications
 
 Some publications in which I participated as part of my job in the [University of the Balearic Islands](http://www.uib.es), and also much later as a 
 teacher.
@@ -48,7 +48,7 @@ teacher.
 <td>David Sánchez Crespillo</td></tr>
 <tr>
 <td class="publication-title">Title </td>
-<td><a href='construyendo.html'>Construyendo la web de un Instituto de Educación Secundaria</a></td></tr>
+<td>Construyendo la web de un Instituto de Educación Secundaria</td></tr>
 <tr>
 <td class="publication-title">Conference </td>
 <td>Congrés Internacional Virtual d’Educació CIVE 2008 (Palma de Mallorca, Spain)</td></tr>
@@ -100,7 +100,7 @@ Vol: 1 Number: 1. Pages: 153 to 167 (Singapore)</td></tr>
 <td>Yuhua Luo, Ricardo Galli, David Sánchez, Antonio Bennassar, Antonio Carlos Almeida, Miguel Dias </td></tr>
 <tr>
 <td class="publication-title">Title </td>
-<td><a href="'/media/pdf/pdf_Stanford.pdf' | prepend site.baseurl }}" title='PDF - 280 kb' type="application/pdf">A Cooperative Architecture Design System via Communication Network</a></td></tr>
+<td><a href="{{ '/media/pdf/pdf_Stanford.pdf' | prepend:site.baseurl }}" title='PDF - 280 kb' type="application/pdf">A Cooperative Architecture Design System via Communication Network</a></td></tr>
 <tr>
 <td class="publication-title">Conference </td>
 <td>8th International Conference on Computing in Civil and Building (Stanford University,  Silicon Valley, CA, USA.)</td></tr>
@@ -117,7 +117,7 @@ Vol: 1 Number: 1. Pages: 153 to 167 (Singapore)</td></tr>
 <td>David Sánchez Crespillo, Antonio Francisco Bennasar Obrador, Ricardo Galli Granada and Yuhua Luo </td></tr>
 <tr>
 <td class="publication-title">Title </td>
-<td><a href="'/media/pdf/pdf_iv2000.pdf' | prepend site.baseurl }}" title='PDF - 385.9 kb' type="application/pdf">Implementation of Mechanisms for Concurrent 3D Design and Visualization</a></td></tr>
+<td><a href="{{ '/media/pdf/pdf_iv2000.pdf' | prepend:site.baseurl }}" title='PDF - 385.9 kb' type="application/pdf">Implementation of Mechanisms for Concurrent 3D Design and Visualization</a></td></tr>
 <tr>
 <td class="publication-title">Type of participation </td>
 <td>Communication </td></tr>
@@ -154,7 +154,7 @@ Vol: 1 Number: 1. Pages: 153 to 167 (Singapore)</td></tr>
 <td> Yuhua Luo, Ricardo Galli, David Sánchez, Juan Fornés, Antonio Bennasar, Juan Carlos Serra, Juan Manuel Huéscar, Josep Gayà </td></tr>
 <tr>
 <td class="publication-title"> Title </td>
-<td><a href="'/media/pdf/pdf_Ast99.pdf' | prepend site.baseurl }}" title='PDF - 1.9 Mb' type="application/pdf">Sistema Cooperativo de Diseño en 3D</a></td></tr>
+<td><a href="{{ '/media/pdf/pdf_Ast99.pdf' | prepend:site.baseurl }}" title='PDF - 1.9 Mb' type="application/pdf">Sistema Cooperativo de Diseño en 3D</a></td></tr>
 <tr>
 <td class="publication-title"> Type of participation </td>
 <td> Communication </td></tr>
@@ -226,13 +226,13 @@ Vol: 1 Number: 1. Pages: 153 to 167 (Singapore)</td></tr>
 
 ## <a name="masterthesis"></a>Master Thesis
 
-My [Master Thesis]('/media/pdf/proyecto_000920.pdf' | prepend site.baseurl }}) for the Degree of __Engineer in Computer Science__, in the [University of the Balearic Islands](http://www.uib.es), was defended the 20th of October 2000, and __awarded with honors__.
+My [Master Thesis]({{ '/media/pdf/proyecto_000920.pdf' | prepend:site.baseurl }}) for the Degree of __Engineer in Computer Science__, in the [University of the Balearic Islands](http://www.uib.es), was defended the 20th of October 2000, and __awarded with honors__.
 
 The title of the thesis was __Desarrollo de técnicas cooperativas para un editor de objetos 3D__ (Development of cooperative techniques for a 3D editor) and was directed by the professors [Ricardo Galli Granada](http://gallir.wordpress.com) and [Yuhua Luo](http://dmi.uib.es/~yuhua/).
 
-![PDF Icon]('/media/img/pdf.png' | prepend site.baseurl }} "PDF Icon") [Desarrollo de técnicas cooperativas para un editor de objetos 3D]('/media/pdf/proyecto_000920.pdf' | prepend site.baseurl }}) (in Spanish)
+![PDF Icon]({{ '/media/img/pdf.png' | prepend:site.baseurl }} "PDF Icon") [Desarrollo de técnicas cooperativas para un editor de objetos 3D]({{ '/media/pdf/proyecto_000920.pdf' | prepend:site.baseurl }}) (in Spanish)
 
-###Abstract
+### Abstract
 
 Development of cooperative techniques for the editing of 3D objects, by applying and extending the Mu3D high level protocol. These techniques are applied to the basic operations of an architecture-oriented 3D editor. The operations include: Concurrency control, data management, basic editing (object insertion and deletion, interactive geometric transformation, material editing and lightning parameters), clipboard operations and undo.
 
