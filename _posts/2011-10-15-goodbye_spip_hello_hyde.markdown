@@ -4,8 +4,6 @@ title: Goodbye SPIP, hello Hyde!
 description: >
     Or "how I learned to stop worrying and love static website generators".
 date: '2011-10-15 10:00:00'
-categories:
-    - website
 ---
 
 Back at the end of the 90s, when I was still studying at the University and developing my first webpages by hand, I came up with some scripts to help me speed up the job, by generating the repetitive code for me. Everything was static HTML (and later, CSS), generated from some text files.

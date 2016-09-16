@@ -4,9 +4,6 @@ title: Camino Portugués 2004
 description: >
     A short description of the Camino de Santiago I made during the summer of 2004.
 date: '2004-09-15 10:00:00'
-categories:
-    - personal
-    - viajes
 ---
 
 For some reason, during the summer of 2004, I took a knapsack and started to walk the Caminho Portugués, from Ponte de Lima to Santiago de Compostela. I was walking alone, without knowing anyone, with the only task of walking for some days.

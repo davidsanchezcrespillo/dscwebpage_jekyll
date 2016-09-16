@@ -4,9 +4,6 @@ title: Bolivia 2002
 description: >
     Some texts I wrote about a mission I participated in Bolivia the year 2002.
 date: '2002-11-15 10:00:00'
-categories:
-    - personal
-    - viajes
 ---
 
 ## Crónicas Cruceñas 2002. Capítulo 1.

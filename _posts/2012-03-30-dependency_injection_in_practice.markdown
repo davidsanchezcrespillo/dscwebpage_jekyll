@@ -4,9 +4,6 @@ title: Dependency Injection in practice
 description: >
     Or "how I learned to stop worrying and love Dependency Injection".
 date: '2012-03-30 18:00:00'
-categories:
-    - development
-    - patterns
 ---
 
 The first time I heard about [Dependency Injection](http://en.wikipedia.org/wiki/Dependency_Injection), I thought it was a nice concept, but difficult to implement in practice. However, as I started to use it for some projects, I discovered it has some advantages that make it worth the effort to learn, and it isn't so difficult to implement after all.

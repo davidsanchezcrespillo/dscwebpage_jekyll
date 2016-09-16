@@ -3,10 +3,6 @@ layout: post
 title: Open spaces and earphones
 description: Or "how I learned to stop worrying and listen to music while working".
 date: '2013-04-06 18:00:00'
-categories:
-    - development
-    - open_spaces
-    - workplace
 ---
 
 I've been working in open spaces for more than 10 years, most of my professional career. I suppose I should have a clear opinion about the feasibility of this kind of environment for my well-being or productivity, as an individual or a team member.

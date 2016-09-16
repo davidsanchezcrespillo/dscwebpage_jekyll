@@ -4,9 +4,6 @@ title: Feliz Navidad 2007
 description: >
     My Christmas Greetings for 2007 (in Spanish).
 date: '2007-12-25 10:00:00'
-categories:
-    - personal
-    - navidad
 ---
 
 Aunque sólo sea por rebelarse contra los mercaderes, los colorines, las sonrisas falsas y las fiestas forzadas.

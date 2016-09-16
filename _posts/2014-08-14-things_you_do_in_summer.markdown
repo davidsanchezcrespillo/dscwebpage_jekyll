@@ -3,10 +3,6 @@ layout: post
 title: Things you do in summer
 description: Or "how I learned to stop worrying and getting some things done".
 date: '2014-08-14 18:00:00'
-categories:
-    - summer
-    - music
-    - web
 ---
 
 Every year, before summer vacation, you usually fantasize about how many things you are going to have the time to do: Build the next great web application, record hours of music in your little home studio, learn how to play an exotic instrument... You name it.

@@ -4,8 +4,6 @@ title: GTAC 2011 Closing Keynote
 description: >
     Or "what makes the big players big".
 date: '2011-11-19 10:00:00'
-categories:
-    - development
 ---
 
 Google Tech Talks (online in Youtube) contain some really interesting material. The Closing Keynote for the 2011 edition was made by Steve McConnell, author of the reference books __Code Complete__ and __Rapid Development__ (some of the few books a self-appointed professional developer should have read).

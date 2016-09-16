@@ -4,9 +4,6 @@ title: Analysts
 description: >
     An insightful quotation.
 date: '2012-02-19 16:00:00'
-categories:
-    - development
-    - IT_Services
 ---
 
 _It is interesting to note the number of job titles for IT

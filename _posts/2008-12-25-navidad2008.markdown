@@ -4,9 +4,6 @@ title: Feliz Navidad 2008
 description: >
     My Christmas Greetings for 2008 (in Spanish).
 date: '2008-12-25 10:00:00'
-categories:
-    - personal
-    - navidad
 ---
 
   * <a href="{{ '/media/audio/mp3_overtherainbow2.mp3' | prepend:site.baseurl}}">Over The Rainbow</a>

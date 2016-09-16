@@ -4,8 +4,6 @@ title: Automating
 description: >
     Or how I learned to stop worrying and love repetition.
 date: '2011-10-22 10:00:00'
-categories:
-    - development
 ---
 
 It's something you learn at any "Computers 101" class: Computers are supposed to be really good at performing the same task many times, right? Yes, of course, everybody knows that!

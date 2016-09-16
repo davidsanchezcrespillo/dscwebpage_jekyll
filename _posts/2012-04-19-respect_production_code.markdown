@@ -4,8 +4,6 @@ title: Respect Production Code
 description: >
     Or "how I learned to stop worrying and love code that just works".
 date: '2012-04-19 18:00:00'
-categories:
-    - development
 ---
 
 It's part of our job, developers need to add different features to some code that is already running on a production system. It's just a matter of time before you find something you'd want just to throw away and rewrite completely. There are many possible reasons for this, I list a few of mine:
