@@ -7,16 +7,21 @@ title: Blog
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
+  <ul class="list-unstyled">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <li class="panel panel-default">
+        <div class="panel-body">
+        <h4>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-
-        <div class="well">{{ post.description }}
+          <small>
+          <time class="text-muted" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+            {{ post.date | date: '%a, %d %b %Y' }}    
+          </time>
+          </small>
+          </h4>
+        <div class="excerpt">{{ post.description }}</div>
+        </div>
       </li>
     {% endfor %}
   </ul>
@@ -24,3 +29,4 @@ title: Blog
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+

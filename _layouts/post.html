@@ -22,10 +22,8 @@ layout: default
   </li>
   {% if page.categories %}
   {% for tag in page.categories %}
-  <li class="">
-      <a class="small" href="{{ '/tags/' | append:tag | append:'.html' }}">
+  <li class="smalle">
         {{ tag }}
-      </a>
   </li>
   {% endfor %}
   {% endif %}
