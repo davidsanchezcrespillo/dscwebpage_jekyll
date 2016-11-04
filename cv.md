@@ -3,7 +3,7 @@ layout: default
 title: "CV"
 ---
 
-<p><a href="#publications">Publications</a> | <a href="#masterthesis">Master Thesis</a></p>
+<p><a href="#publications">Publications</a> | <a href="#master-thesis">Master Thesis</a></p>
 
 # CV
 
@@ -35,7 +35,7 @@ Find below a __100-words version__ of my CV. For more details, check my [LinkedI
 
 ---
 
-## <a name="publications"></a>Publications
+## Publications
 
 Some publications in which I participated as part of my job in the [University of the Balearic Islands](http://www.uib.es), and also much later as a 
 teacher.
@@ -224,7 +224,7 @@ Vol: 1 Number: 1. Pages: 153 to 167 (Singapore)</td></tr>
 
 ---
 
-## <a name="masterthesis"></a>Master Thesis
+## Master Thesis
 
 My [Master Thesis]({{ '/media/pdf/proyecto_000920.pdf' | prepend:site.baseurl }}) for the Degree of __Engineer in Computer Science__, in the [University of the Balearic Islands](http://www.uib.es), was defended the 20th of October 2000, and __awarded with honors__.
 
