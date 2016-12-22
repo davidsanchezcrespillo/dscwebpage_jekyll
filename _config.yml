@@ -55,6 +55,9 @@ social:
           - title: Facebook
             url: http://www.facebook.com/davidsanchezcrespillo
             image: /media/img/facebook.png
+          - title: Twitter
+            url: https://www.twitter.com/dinopmi
+            image: /media/img/twitter.png
           - title: Github
             url: https://github.com/davidsanchezcrespillo
             image: /media/img/github.png
