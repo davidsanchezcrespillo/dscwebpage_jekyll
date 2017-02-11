@@ -29,19 +29,19 @@ menu:
             url: "#"
             items:
             - title: LT Words
-              url: ltWords/web/index
+              url: /ltWords/web/index
             - title: Labas Rytas
               url: /labasrytas/
             - title: VKWebEdit
-              url: vkwebedit
+              url: /vkwebedit
           - title: Music
             url: "#"
             items:
-            - url: kd2x3.html
+            - url: /kd2x3.html
               title: KD2X3
-            - url: canciones_de_campamento.html
+            - url: /canciones_de_campamento.html
               title: Canciones de Campamento
-            - url: retalls.html
+            - url: /retalls.html
               title: Retalls
           - title: CV
             url: /cv.html

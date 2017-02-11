@@ -3,11 +3,11 @@
   <tr><th>Title</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr>
   {% for item in page.tracklist %}
     <tr>
-    <td><a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{{ item.title }}</a></td>
+    
+      <td>{% if item.download %}<a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{% endif %}{{ item.title }}{% if item.download %}</a>{% endif %}</td>
     <td>{% if item.description %} {{ item.description }} {% endif %}</td>
     <td><audio title="{{ item.title }}" controls="controls" preload="none">
       <source src="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}" type="audio/mpeg"/>
-      <source src="{{ '/media/audio/' | append:item.url | append:'.ogg' | prepend:site.baseurl }}" type="audio/ogg"/>
       <a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{{ item.title }}</a>
       </audio>
     </td>

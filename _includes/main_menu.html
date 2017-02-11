@@ -10,7 +10,7 @@
     <ul class="dropdown-menu" role="menu">
     {% for subitem in menu_item.items %}
     <li>
-    <a href="{{ subitem.url | perpend:site.baseurl }}">
+    <a href="{{ subitem.url | prepend:site.baseurl }}">
     {{ subitem.title }}
     </a>
     </li>
