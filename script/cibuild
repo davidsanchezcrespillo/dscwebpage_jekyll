@@ -2,5 +2,6 @@
 set -e # Halt script on error
 
 bundle exec jekyll build
-#bundle exec htmlproofer ./_site
+ln -s _site _site/david
+bundle exec htmlproofer ./_site
 
