@@ -50,10 +50,10 @@ menu:
 
 social:
           - title: LinkedIn
-            url: http://www.linkedin.com/in/davidsanchezcrespillo
+            url: https://www.linkedin.com/in/davidsanchezcrespillo
             image: /media/img/linkedin.png
           - title: Facebook
-            url: http://www.facebook.com/davidsanchezcrespillo
+            url: https://www.facebook.com/davidsanchezcrespillo
             image: /media/img/facebook.png
           - title: Twitter
             url: https://www.twitter.com/dinopmi
@@ -62,12 +62,12 @@ social:
             url: https://github.com/davidsanchezcrespillo
             image: /media/img/github.png
           - title: StackOverflow
-            url: http://stackoverflow.com/users/224368/dinopmi
+            url: https://stackoverflow.com/users/224368/dinopmi
             image: /media/img/stackoverflow.png
 
 footer:
           - title: HTML5
-            url: http://validator.w3.org/check?uri=referer
+            url: https://validator.w3.org/check?uri=referer
             image: /media/img/html5_valid.png
           - title: Made with Jekyll
             url: https://jekyllrb.com/
