@@ -3,5 +3,9 @@ set -e # Halt script on error
 
 bundle exec jekyll build
 ln -s _site _site/david
+# Mock directories
+mkdir _site/labasrytas
+mkdir _site/vkwebedit
+mkdir -p _site/ltWords/web/index
 bundle exec htmlproofer --url-swap \/david: ./_site
 
