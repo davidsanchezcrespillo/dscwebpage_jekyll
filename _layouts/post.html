@@ -42,9 +42,11 @@ layout: default
 </header>
 
 <div class="postdetails">
+{% if page.description %}
 <div class="well well-sm">
 {{ page.description }}
 </div>
+{% endif %}
 
 {{ content }}
 
