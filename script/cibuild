@@ -1,11 +1,16 @@
 #!/usr/bin/env bash
 set -e # Halt script on error
 
-bundle exec jekyll build
-ln -s _site _site/david
+bundle exec jekyll build -d _site/david
+#ln -s _site _site/david
 # Mock directories
+mkdir -p _site/labasrytas
 mkdir -p _site/david/labasrytas
+touch _site/david/labasrytas/index.html
 mkdir -p _site/david/vkwebedit
+touch _site/david/vkwebedit/index.html
 mkdir -p _site/david/ltWords/web/index
-bundle exec htmlproofer --url-swap \/david: ./_site
+touch _site/david/ltWords/web/index/index.html
+#bundle exec htmlproofer --url-swap \/david\/: ./_site
+bundle exec htmlproofer ./_site
 

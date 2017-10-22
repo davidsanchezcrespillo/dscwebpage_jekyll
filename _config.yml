@@ -26,7 +26,7 @@ markdown: kramdown
 
 menu:
           - title: Dev
-            url: "#"
+            url: ""
             items:
             - title: LT Words
               url: /ltWords/web/index
@@ -35,7 +35,7 @@ menu:
             - title: VKWebEdit
               url: /vkwebedit
           - title: Music
-            url: "#"
+            url: ""
             items:
             - url: /kd2x3.html
               title: KD2X3
