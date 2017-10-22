@@ -1,7 +1,7 @@
 <div class="col-sm-{{ include.span }} tile">
   <a href="{{ include.url | prepend:site.baseurl }}">
   <figure class="tile-figure">
-      <img src="{{ '/media/img/' | append:include.img | prepend:site.baseurl }}" alt=""/>
+    <img src="{{ '/media/img/' | append:include.img | prepend:site.baseurl }}" alt="{{ include.title }}"/>
       <figcaption class="tile-caption">{{ include.title }}</figcaption>
   </figure>
   </a>
