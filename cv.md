@@ -50,7 +50,7 @@ teacher.
 
 My [Master Thesis]({{ '/media/pdf/proyecto_000920.pdf' | prepend:site.baseurl }}) for the Degree of __Engineer in Computer Science__, in the [University of the Balearic Islands](http://www.uib.es), was defended the 20th of October 2000, and __awarded with honors__.
 
-The title of the thesis was __Desarrollo de técnicas cooperativas para un editor de objetos 3D__ (Development of cooperative techniques for a 3D editor) and was directed by the professors [Ricardo Galli Granada](http://gallir.wordpress.com) and [Yuhua Luo](http://dmi.uib.es/~yuhua/).
+The title of the thesis was __Desarrollo de técnicas cooperativas para un editor de objetos 3D__ (Development of cooperative techniques for a 3D editor) and was directed by the professors Ricardo Galli Granada and Yuhua Luo.
 
 ![PDF Icon]({{ '/media/img/pdf.png' | prepend:site.baseurl }} "PDF Icon") [Desarrollo de técnicas cooperativas para un editor de objetos 3D]({{ '/media/pdf/proyecto_000920.pdf' | prepend:site.baseurl }}) (in Spanish)
 
