@@ -1,19 +1,12 @@
 {% for publication in site.publications %}
-<table class="table table-default table-responsive table-bordered table-striped table-condensed">
-  <tbody>
-    <tr class="success">
-      <td>Title</td><td>{{ publication.title }}</td>
-    </tr>
-    <tr>
-      <td>Authors</td><td>{{ publication.authors }}</td>
-    </tr>
-    <tr>
-      <td>Date</td><td>{{ publication.date }}</td>
-    </tr>
-    <tr>
-      <td>Where</td><td>{{ publication.where }}</td>
-    </tr>
-  </tbody>
-</table>
-<hr />
+<div class="panel panel-info">
+  <div class="panel-heading">
+    {{ publication.title  }}
+  </div>
+  <ul class="panel-body">
+    <li class="list-group-item">{{ publication.authors }}</li>
+    <li class="list-group-item">{{ publication.date }}</li>
+    <li class="list-group-item">{{ publication.where }}</li>
+  </ul>
+</div>
 {% endfor %}
