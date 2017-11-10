@@ -1,4 +1,7 @@
 _site/
+_site_test/
 .sass-cache/
+.bundle/
+vendor/
 .jekyll-metadata
 Gemfile.lock
