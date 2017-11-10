@@ -34,7 +34,7 @@ you would write this:
 
 Where do the objects get created, then? Ideally, in a specialized class, devoted only to this task. This class (let's call it __container__) can also manage the dependencies between objects (so, "this object A needs this object B, and it's passed through this method"). Sometimes, objects are called "services", which reflects much better their intent.
 
-Should I write a container, then? Well, if you wish, that's OK. However, there are Dependency Injection Frameworks ready to use, in all the major languages. [Spring](http://www.springsource.com/developer/spring) and [Guice](http://code.google.com/p/google-guice/) for Java, [Symfony DI](http://symfony.com/doc/current/components/dependency_injection.html) or [Pimple](http://pimple.symfony.com) for PHP, etc.
+Should I write a container, then? Well, if you wish, that's OK. However, there are Dependency Injection Frameworks ready to use, in all the major languages. [Spring](http://www.springsource.com/developer/spring) and [Guice](http://code.google.com/p/google-guice/) for Java, [Symfony DI](http://symfony.com/doc/current/components/dependency_injection.html) or [Pimple](https://github.com/silexphp/Pimple) for PHP, etc.
 
 After using a bit Dependency Injection for some time now, I have found the following __advantages__:
 
