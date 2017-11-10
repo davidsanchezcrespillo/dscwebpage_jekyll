@@ -13,5 +13,5 @@ touch $SITEDIR/david/vkwebedit/index.html
 mkdir -p $SITEDIR/david/ltWords/web/index
 touch $SITEDIR/david/ltWords/web/index/index.html
 #bundle exec htmlproofer --url-swap \/david\/: ./_site
-bundle exec htmlproofer ./$SITEDIR
+bundle exec htmlproofer --http-status-ignore "999,403,404" ./$SITEDIR
 
