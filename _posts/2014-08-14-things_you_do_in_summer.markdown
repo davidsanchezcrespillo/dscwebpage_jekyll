@@ -11,7 +11,7 @@ In my case, I fantasize a lot during the year, but my real accomplishments are m
 
 This summer, however, besides the usual housekeeping tasks you do during this period of the year, I managed to get some things done: I put together a couple of "web projects" and some music. Even if they are not perfect at all here they are:
 
-- [Labas Rytas](/labasrytas), a [Drupal](https://www.drupal.org)-based website containing some resources for learning Lithuanian.
+- [Labas Rytas](https://sanchezcrespillo.info/labasrytas), a [Drupal](https://www.drupal.org)-based website containing some resources for learning Lithuanian.
 - [LTFeeds](https://github.com/davidsanchezcrespillo/feedReader), an [Angular](http://www.angularjs.org)-base web application to read some feeds. For this particular
 instance, I have used feeds from Lithuanian media (yes, I am learning some Lithuanian!).
 - [Retalls]({{ '/retalls.html' | prepend:site.baseurl }}), "trimmings" in Catalan, some old and new amateurish music.
