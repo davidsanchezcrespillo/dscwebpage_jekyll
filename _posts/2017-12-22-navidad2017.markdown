@@ -1,0 +1,14 @@
+---
+layout: post
+title: Navidad 2017
+date: '2017-12-22 12:00:00'
+description: My Christmas Greetings for 2017.
+tracklist:
+  - title: Campana sobre campana
+    url: campana_sobre_campana
+---
+
+¡Feliz Navidad! Bon Nadal! Merry Christmas! Joyeux Noël! Linksmų Šventų Kalėdų!
+
+{% include media_player.html %}
+

@@ -4,30 +4,6 @@ layout: default
 <article class="post">
 <div class="">
 <header class="postheader">
-<ul class="nav nav-pills">
-  <li>
-    <a href="https://plus.google.com/share?url=http%3a%2f%2fsanchezcrespillo.info%2fdavid{{ page.url }}">
-      <img src="{{ '/media/img/googleplus_32.png' | prepend:site.baseurl }}" alt="Share on Google+" />
-    </a>
-  </li>
-  <li>
-    <a href="https://twitter.com/intent/tweet?text=David%20Sánchez%20Crespillo&url=http://sanchezcrespillo.info{{ site.baseurl }}{{ page.url }}">
-      <img src="{{ '/media/img/twitter_32.png' | prepend:site.baseurl }}" alt="Share on Twitter" />
-    </a>
-  </li>
-  <li>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://sanchezcrespillo.info{{ site.baseurl }}{{ page.url }}">
-      <img src="{{ '/media/img/facebook_32.png' | prepend:site.baseurl }}" alt="Share on Facebook" />
-    </a>
-  </li>
-  {% if page.categories %}
-  {% for tag in page.categories %}
-  <li class="smalle">
-        {{ tag }}
-  </li>
-  {% endfor %}
-  {% endif %}
-</ul>
   <h1>
   <a href="{{ page.url | prepend:site.baseurl }}">
         {{ page.title }}
@@ -53,6 +29,30 @@ layout: default
 <hr/>
 <div class="row">
 <div class="col-md-12">
+<ul class="nav nav-pills">
+  <li>
+    <a href="https://plus.google.com/share?url=http%3a%2f%2fsanchezcrespillo.info%2fdavid{{ page.url }}">
+      <img src="{{ '/media/img/googleplus_32.png' | prepend:site.baseurl }}" alt="Share on Google+" />
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/intent/tweet?text=David%20Sánchez%20Crespillo&url=http://sanchezcrespillo.info{{ site.baseurl }}{{ page.url }}">
+      <img src="{{ '/media/img/twitter_32.png' | prepend:site.baseurl }}" alt="Share on Twitter" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://sanchezcrespillo.info{{ site.baseurl }}{{ page.url }}">
+      <img src="{{ '/media/img/facebook_32.png' | prepend:site.baseurl }}" alt="Share on Facebook" />
+    </a>
+  </li>
+  {% if page.categories %}
+  {% for tag in page.categories %}
+  <li class="smalle">
+        {{ tag }}
+  </li>
+  {% endfor %}
+  {% endif %}
+</ul>
 </div>
 </div>
 </div>

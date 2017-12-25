@@ -33,9 +33,7 @@
           <span class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></span>
         </div>
         <div class="col-md-4">
-          <div class="top-space">
-            {% include social_links.html %}
-          </div>        </div>
+        </div>
         <div class="col-md-4">
         {% include main_menu.html %}
         </div>
@@ -52,7 +50,12 @@
       </div>
 
       <div class="row" style="margin-top: 10px;">
-        <div class="col-xs-12">
+        <div class="col-xs-4">
+          <div class="top-space">
+            {% include social_links.html %}
+          </div>
+        </div>
+        <div class="col-xs-8">
           <div class="text-right">
             {% include footer_links.html %}
           </div>
