@@ -22,7 +22,7 @@ I was supposed to know what a __macro__ was for, but the first time I understood
 
 Sometimes, __automatic code generation__ is already built in for your IDE, and it's easy to generate the skeleton of an application or a library. Sometimes, however, either there's no such help, or you need to create lots of similar skeletons, such as CRUD code for a web application. In that case, a small Perl script (or whatever scripting language of choice) can be really useful. It's not difficult to write, and if you I'm lucky sometimes I can reuse it in the future.
 
-__One step build__ has been advocated [many times](http://www.joelonsoftware.com), so it shouldn't need many explanations. Once you get used to it (and there are tools like [Jenkins](http://jenkins-ci.org) that encourage you to), you don't want to get back to the times of "edit Makefile, copy this there, change this variable, run Make, open the IDE, change an option...".
+__One step build__ has been advocated [many times](http://www.joelonsoftware.com), so it shouldn't need many explanations. Once you get used to it (and there are tools like [Jenkins](https://jenkins.io) that encourage you to), you don't want to get back to the times of "edit Makefile, copy this there, change this variable, run Make, open the IDE, change an option...".
 
 Even if if might look a bit "geeky" at first ("hey, I wrote my own code generator!"), sometimes automation, in one way or another, is the way to go, just because it's what computers are supposed to be good at, and also because will save you time.
 
