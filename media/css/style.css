@@ -73,6 +73,9 @@ table.publications td.publication-title {
 
 .tile-figure {
     position: relative;
+    margin: 4px 8px 4px 0;
+    border-radius: 15px;
+    overflow: auto;
 }
 
 .tile img {
@@ -119,3 +122,9 @@ table.publications td.publication-title {
     margin-top: 5px;
 }
 
+.title-icon {
+  margin-top: 5px;
+  margin-right: 10px;
+  border-radius: 15px;
+  overflow: auto;
+}

@@ -25,10 +25,10 @@
     <body>
     <div class="container">
 
-      <div class="row" style="margin-bottom:10px;">
+      <div class="row">
         <div class="col-md-4 clearfix">
-        <div class="pull-left" style="margin-right:10px;">
-        <a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="Icon" style="margin-top:5px;"/></a>
+        <div class="pull-left title-icon">
+        <a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="Icon" /></a>
         </div>
           <span class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></span>
         </div>
@@ -49,14 +49,14 @@
             {{ content }}
       </div>
 
-      <div class="row" style="margin-top: 10px;">
+      <div class="row top-space">
         <div class="col-xs-4">
           <div class="top-space">
             {% include social_links.html %}
           </div>
         </div>
         <div class="col-xs-8">
-          <div class="text-right">
+          <div class="text-right top-space">
             {% include footer_links.html %}
           </div>
         </div>
