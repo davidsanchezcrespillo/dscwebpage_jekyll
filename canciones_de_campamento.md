@@ -56,7 +56,7 @@ tracklist:
 Canciones de Campamento
 =====
 
-Las Canciones de Campamento fueron una iniciativa para ampliar el repertorio utilizado en las actividades de la organización juvenil [Juventud Idente](http://www.juventudidente.net). Grabadas en un estudio casero en Palma de Mallorca, durante los veranos de 2005 y 2007, todos los participantes prestaron su tiempo y voces de forma altruista.
+Las Canciones de Campamento fueron una iniciativa para ampliar el repertorio utilizado en las actividades de la organización juvenil [Juventud Idente](https://www.juventudidente.org). Grabadas en un estudio casero en Palma de Mallorca, durante los veranos de 2005 y 2007, todos los participantes prestaron su tiempo y voces de forma altruista.
 
 ![PDF Icon]({{ '/media/img/pdf.png' | prepend:site.baseurl }} "PDF Icon") [Portada del CD con fotos y datos]({{ '/media/pdf/canciones_de_campamento_2007_portada.pdf' | prepend:site.baseurl }}).
 

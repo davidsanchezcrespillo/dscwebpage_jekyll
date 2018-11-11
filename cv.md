@@ -12,7 +12,7 @@ Find below a __100-words version__ of my CV. For more details, check my [LinkedI
 ### Work experience
 
   * [European Commission](https://ec.europa.eu). Information and Communication Assistant. __2012 - present__.
-  * [Acapela Group](http://www.acapela-group.com) (Voice Software - Belgium). Software Engineer. __2010-2012__.
+  * [Acapela Group](https://www.acapela-group.com) (Voice Software - Belgium). Software Engineer. __2010-2012__.
   * [Government of the Balearic Islands](http://www.caib.es) (Government - Spain). ICT Teacher. __2006-2010__
   * [Gridsystems](http://www.gridsystems.com) (Grid Software - Spain). Software Engineer. __2000-2006__
   * [University of Balearic Islands](http://www.uib.es) (University - Spain). 3D Programmer and Researcher. __1998-2000__
