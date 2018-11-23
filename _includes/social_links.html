@@ -1,7 +1,11 @@
 <ul class="list-inline">
 {% for social_item in site.social %}
 <li>
+{% if social_item.url contains 'http' %}
 <a href="{{ social_item.url }}" title="{{ social_item.title }}">
+{% else %}
+<a href="{{ social_item.url | prepend:site.baseurl }}" title="{{ social_item.title }}">
+{% endif %}
 <img src="{{ social_item.image | prepend:site.baseurl }}" title="{{ social_item.title }}"  alt="{{ social_item.title }}" height="48" width="48" />
 </a>
 </li>

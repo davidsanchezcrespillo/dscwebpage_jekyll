@@ -18,7 +18,6 @@ tracklist:
 
 <img class="pull-right" src="{{ '/media/img/microphone.png' | prepend:site.baseurl }}" alt="Microphone image" />
 
-# KD2X3
 
 KD2X3 was a vocal band. We sang together since May 1999 until the end of 2001.
 

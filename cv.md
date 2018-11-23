@@ -5,8 +5,6 @@ title: "CV"
 
 <p><a href="#publications">Publications</a> | <a href="#master-thesis">Master Thesis</a></p>
 
-# CV
-
 Find below a __100-words version__ of my CV. For more details, check my [LinkedIn profile](https://www.linkedin.com/in/davidsanchezcrespillo).
 
 ### Work experience

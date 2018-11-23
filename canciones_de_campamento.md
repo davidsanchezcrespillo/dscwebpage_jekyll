@@ -53,8 +53,6 @@ tracklist:
 
 <img class="pull-right" src="{{ '/media/img/monopianistaTransPetit.png' | prepend:site.baseurl }}" alt="Imagen de las Canciones de Campamento 2007" />
 
-Canciones de Campamento
-=====
 
 Las Canciones de Campamento fueron una iniciativa para ampliar el repertorio utilizado en las actividades de la organización juvenil [Juventud Idente](https://www.juventudidente.org). Grabadas en un estudio casero en Palma de Mallorca, durante los veranos de 2005 y 2007, todos los participantes prestaron su tiempo y voces de forma altruista.
 

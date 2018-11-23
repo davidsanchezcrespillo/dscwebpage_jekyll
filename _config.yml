@@ -49,6 +49,12 @@ menu:
             url: /blog.html
 
 social:
+          - title: Blog
+            url: /blog.html
+            image: /media/img/button_blog.png
+          - title: CV
+            url: /cv.html
+            image: /media/img/button_cv.png
           - title: LinkedIn
             url: https://www.linkedin.com/in/davidsanchezcrespillo
             image: /media/img/linkedin.png

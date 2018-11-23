@@ -26,16 +26,14 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-md-4 clearfix">
+        <div class="col-md-8 clearfix">
         <div class="pull-left title-icon">
         <a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="Icon" /></a>
         </div>
-          <span class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></span>
+        <div class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></div>
+       {% include social_links.html %}
         </div>
         <div class="col-md-4">
-        </div>
-        <div class="col-md-4">
-        {% include main_menu.html %}
         </div>
       </div>
 
@@ -45,15 +43,13 @@
         </div>
       </div>
 
-      <div>
+      <article>
+        <h1>{{ page.title }}</h1>
             {{ content }}
-      </div>
+      </article>
 
       <div class="row top-space">
         <div class="col-xs-4">
-          <div class="top-space">
-            {% include social_links.html %}
-          </div>
         </div>
         <div class="col-xs-8">
           <div class="text-right top-space">

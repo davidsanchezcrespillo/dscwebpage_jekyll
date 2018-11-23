@@ -17,9 +17,6 @@ tracklist:
 
 <img class="pull-right" src="{{ '/media/img/retalls.png' | prepend:site.baseurl }}" alt="Retalls" />
 
-Retalls
-=====
-
 Algunas músicas viejas y nuevas, inacabadas y pulidas. Una especie de 
 "fotomatón veraniego" recopilado en el verano de 2014.
 

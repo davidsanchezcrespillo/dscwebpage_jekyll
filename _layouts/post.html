@@ -1,22 +1,14 @@
 ---
 layout: default
 ---
-<article class="post">
-<div class="">
 <header class="postheader">
-  <h1>
-  <a href="{{ page.url | prepend:site.baseurl }}">
-        {{ page.title }}
-  </a>
   <small>
     <time class="badge" datetime="{{ page.date | date: '%Y-%m-%d'}}">
     {{ page.date | date: '%Y-%m-%d'}}
     </time>
   </small>
-  </h1>
-
 </header>
-
+<hr>
 <div class="postdetails">
 {% if page.description %}
 <div class="well well-sm">
@@ -56,6 +48,4 @@ layout: default
 </div>
 </div>
 </div>
-</div>
-</article>
 
