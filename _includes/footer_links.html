@@ -1,8 +1,9 @@
 <ul class="list-inline">
 {% for social_item in site.footer %}
-<li>
+<li class="list-inline-item">
 <a href="{{ social_item.url }}" title="{{ social_item.title }}">
-<img src="{{ social_item.image | prepend:site.baseurl }}" title="{{ social_item.title }}"  alt="{{ social_item.title }}" height="48" width="48" />
+  <!--<img src="{{ social_item.image | prepend:site.baseurl }}" title="{{ social_item.title }}"  alt="{{ social_item.title }}" height="48" width="48" />-->
+  {{ social_item.title }}
 </a>
 </li>
 {% endfor %}

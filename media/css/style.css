@@ -34,13 +34,6 @@ a.next:after{
     border-color: #bdbdbd;
 }
 
-/*
-table.publications td.publication-title {
-    width: 200px;
-    font-weight: bold;
-}
-*/
-
 .a-download {
     display: inline-block;
     height: 32px;
@@ -127,4 +120,17 @@ table.publications td.publication-title {
   margin-right: 10px;
   border-radius: 15px;
   overflow: auto;
+}
+
+.main-menu {
+  margin-top: 1em;
+}
+
+.list-inline > li {
+  padding-left: 0;
+}
+
+.list-inline-item + .list-inline-item::before {
+  /*border-left: 1px solid currentColor;*/
+  content: "-";
 }
