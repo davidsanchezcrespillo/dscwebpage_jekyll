@@ -41,14 +41,10 @@
         </div>
       </div>
 
-      <div class="row top-space">
-        <div class="col-xs-12">
-
-        </div>
-      </div>
-
       <article>
+        {% if page.title %}
         <h1>{{ page.title }}</h1>
+        {% endif %}
             {{ content }}
       </article>
 

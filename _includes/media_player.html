@@ -1,10 +1,10 @@
 {% if page.tracklist %}
-<table class="table table-striped table-condensed">
-  <tr><th>Title</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr>
+<div class="panel panel-default">
+<table class="table table-striped table-condensed table-hover table-nonfluid media-list">
+  <tbody>
   {% for item in page.tracklist %}
     <tr>
-    
-      <td>{% if item.download %}<a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{% endif %}{{ item.title }}{% if item.download %}</a>{% endif %}</td>
+      <td class="title">{% if item.download %}<a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{% endif %}{{ item.title }}{% if item.download %}</a>{% endif %}</td>
     <td>{% if item.description %} {{ item.description }} {% endif %}</td>
     <td><audio title="{{ item.title }}" controls="controls" preload="none">
       <source src="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}" type="audio/mpeg"/>
@@ -23,5 +23,7 @@
     </td>
   </tr>
   {% endfor %}
+  </tbody>
 </table>
+</div>
 {% endif %}
