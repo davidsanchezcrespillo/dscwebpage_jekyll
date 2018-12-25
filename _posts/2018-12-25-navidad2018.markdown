@@ -1,0 +1,14 @@
+---
+layout: post
+title: Navidad 2018
+date: '2018-12-25 12:00:00'
+description: My Christmas Greetings for 2018.
+tracklist:
+  - title: Noche de Paz
+    url: mp3_nochedepaz
+---
+
+¡Feliz Navidad! Bon Nadal! Merry Christmas! Joyeux Noël! Linksmų Šventų Kalėdų!
+
+{% include media_player.html %}
+
