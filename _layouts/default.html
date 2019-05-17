@@ -32,12 +32,16 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-md-12 clearfix">
-        <div class="pull-left title-icon">
-        <a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="Icon" /></a>
+        <div class="col-md-12">
+          <div class="title-icon pull-lef pull-left">
+            <a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="Icon" /></a>
+          </div>
+          <div class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></div>
         </div>
-        <div class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></div>
-       {% include social_links.html %}
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+        {% include social_links.html %}
         </div>
       </div>
 
