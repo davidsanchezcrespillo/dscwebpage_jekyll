@@ -1,29 +1,26 @@
 {% if page.tracklist %}
-<div class="panel panel-default">
-<table class="table table-striped table-condensed table-hover table-nonfluid media-list">
-  <tbody>
+<div>
+  <ul class="list-unstyled">
   {% for item in page.tracklist %}
-    <tr>
-      <td class="title">{% if item.download %}<a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{% endif %}{{ item.title }}{% if item.download %}</a>{% endif %}</td>
-    <td>{% if item.description %} {{ item.description }} {% endif %}</td>
-    <td><audio title="{{ item.title }}" controls="controls" preload="none">
+    <li class="list-group-item">
+    <figure>
+      <figcaption>
+      <a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}"><strong>{{ item.title }}</strong></a>
+    {% if item.description %} ({{ item.description }}) {% endif %}
+    {% if item.lyrics %}
+      [<a class="a-lyrics" href="{{ '/media/audio/' | append:item.lyrics | prepend:site.baseurl }}" title="Lyrics">Lyrics</a>]
+    {% endif %}
+    {% if item.score %}
+      [<a class="a-score" href="{{ '/media/audio/' | append:item.score | prepend:site.baseurl }}" title="Score">Score</a>]
+    {% endif %}
+      </figcaption>
+    <audio title="{{ item.title }}" controls="controls" preload="none">
       <source src="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}" type="audio/mpeg"/>
       <a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}">{{ item.title }}</a>
-      </audio>
-    </td>
-    <td>
-    {% if item.lyrics %}
-      <a class="a-lyrics" href="{{ '/media/audio/' | append:item.lyrics | prepend:site.baseurl }}" title="Lyrics"></a>
-    {% endif %}
-    </td>
-    <td>
-    {% if item.score %}
-      <a class="a-score" href="{{ '/media/audio/' | append:item.score | prepend:site.baseurl }}" title="Score"></a>
-    {% endif %}
-    </td>
-  </tr>
+    </audio>
+    </figure>
+  </li>
   {% endfor %}
-  </tbody>
-</table>
+</ul>
 </div>
 {% endif %}

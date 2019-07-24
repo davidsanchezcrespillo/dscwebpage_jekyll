@@ -49,7 +49,7 @@ During its activity period, KD2X3 performed in a number of concerts. An incomple
   * Santa Eugènia. 2 January 2000.
   * Parròquia Sant Josep Obrer. Palma. 8 January 2000.
 
-## Solo concerts:
+### Solo concerts
 
   * Teatre municipal. Pòrtol. 9 June 1999.
   * Pregó de festes. Muro. 18 June 1999.

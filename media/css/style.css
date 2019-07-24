@@ -1,5 +1,13 @@
 /** Improving the contrast a little bit */
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .header-title {
+  font-family: 'Merriweather', serif;
+}
+
 a {
     color: #024b8a;
 }
@@ -16,27 +24,6 @@ a {
     border-style: solid;
     border-width: 1px;
     border-color: #bdbdbd;
-}
-
-.a-download {
-    display: inline-block;
-    height: 32px;
-    width: 32px;
-    background-image: url('../img/icon-download.png');
-}
-
-.a-lyrics {
-    display: inline-block;
-    height: 32px;
-    width: 32px;
-    background-image: url('../img/icon-lyrics.png');
-}
-
-.a-score {
-    display: inline-block;
-    height: 32px;
-    width: 32px;
-    background-image: url('../img/icon-score.png');
 }
 
 .table-nonfluid {
@@ -148,4 +135,9 @@ a {
 
 .postheader {
   margin-bottom: 10px;
+}
+
+.post-summary time {
+  display: inline-block;
+  width: 150px;
 }

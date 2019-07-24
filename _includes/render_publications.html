@@ -1,12 +1,9 @@
+<ul class="list-unstyled">
 {% for publication in site.publications %}
-<div class="panel panel-info">
-  <div class="panel-heading">
-    {{ publication.title  }}
-  </div>
-  <ul class="panel-body">
-    <li class="list-group-item">{{ publication.authors }}</li>
-    <li class="list-group-item">{{ publication.date }}</li>
-    <li class="list-group-item">{{ publication.where }}</li>
-  </ul>
-</div>
+<li class="list-group-item">
+  <p><strong>{{ publication.title  }}</strong> ({{ publication.date }})</p>
+  <p>{{ publication.authors }}</p>
+  <p>{{ publication.where }}</p>
+</li>
 {% endfor %}
+</ul>

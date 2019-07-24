@@ -7,20 +7,12 @@ title: Blog
 
   <ul class="list-unstyled">
     {% for post in site.posts %}
-      <li class="panel panel-info">
-        <div class="panel-heading">
-        <h4>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-
-          <small>
-          <time class="text-muted" datetime="{{ post.date | date: '%Y-%m-%d' }}">
-            {{ post.date | date: '%a, %d %b %Y' }}    
-          </time>
-          </small>
-          </h4>
-        <div class="excerpt">{{ post.description }}</div>
-        </div>
-      </li>
+    <li class="post-summary">
+      <h4>
+      <small><time class="text-muted" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%a, %d %b %Y' }}</time></small>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+      </h4>
+    </li>
     {% endfor %}
   </ul>
 

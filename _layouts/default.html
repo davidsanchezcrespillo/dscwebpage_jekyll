@@ -22,6 +22,7 @@
         <meta name="twitter:dnt" content="on">
         {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}" />{% endif %}
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ '/media/css/style.css' | prepend:site.baseurl }}" />
         <!--<script src="{{ '/media/js/modernizr.custom.js' | prepend:site.baseurl }}"></script>-->
         <!--[if lt IE 9]>
@@ -34,18 +35,15 @@
 
       <div class="row">
         <div class="col-md-12">
-          <div class="title-icon pull-lef pull-left">
+          <div class="title-icon pull-left">
             <a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home"><img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" alt="Icon" /></a>
           </div>
-          <div class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></div>
+          <div>
+            <p class="header-title"><a href="{{ '/index.html' | prepend:site.baseurl }}" title="Home">David Sánchez Crespillo</a></p>
+            <p>{% include social_links.html %}</p>
+          </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-12">
-        {% include social_links.html %}
-        </div>
-      </div>
-
       <div role="main">
         {% if page.title %}
         <h1>{{ page.title }}</h1>
