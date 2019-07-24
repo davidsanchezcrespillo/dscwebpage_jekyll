@@ -3,8 +3,6 @@ layout: default
 title: "CV"
 ---
 
-## In 100 words
-
 [LinkedIn profile](https://www.linkedin.com/in/davidsanchezcrespillo)
 
 __Work experience__
