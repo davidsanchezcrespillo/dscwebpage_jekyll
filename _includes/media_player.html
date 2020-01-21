@@ -2,7 +2,7 @@
 <div>
   <ul class="list-unstyled">
   {% for item in page.tracklist %}
-    <li class="list-group-item">
+    <li>
     <figure>
       <figcaption>
       <a href="{{ '/media/audio/' | append:item.url | append:'.mp3' | prepend:site.baseurl }}"><strong>{{ item.title }}</strong></a>

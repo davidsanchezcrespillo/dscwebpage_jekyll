@@ -1,0 +1,16 @@
+---
+layout: post
+title: Navidad 2019
+date: '2019-12-23 12:00:00'
+description: My Christmas Greetings for 2019.
+tracklist:
+  - title: White Christmas
+    url: mp3_whitechristmas
+---
+
+¡Feliz Navidad! Bon Nadal! Merry Christmas! Joyeux Noël! Linksmų Šventų Kalėdų!
+
+{% include media_player.html %}
+
+![Me colé en el piano del centro comercial...]({{ '/media/img/navidad2019.jpg' | prepend:site.baseurl }})
+
