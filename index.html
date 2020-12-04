@@ -3,18 +3,23 @@ layout: default
 url: index.html
 ---
 
-<div class="row top-space">
-  <div class="row" style="margin-left: 0; margin-right: 0;">
-
-    {% include render_tile.html span="4" title="LTWords" url="/ltWords/web/index" img="kauno_rotuse.jpg" %}
-{% include render_tile.html span="4" title="VKWebEdit" url="/vkwebedit/" img="vkwebedit.png" %}
-  </div>
-
-
-  <div class="row" style="margin-left: 0; margin-right: 0;">
-    {% include render_tile.html span="4" title="Retalls" url="/retalls.html" img="patchwork.jpg" %}
-    {% include render_tile.html span="4" title="KD2X3" url="/kd2x3.html" img="microphone.jpg" %}
-    {% include render_tile.html span="4" title="Canciones de campamento" url="/canciones_de_campamento.html" img="fuegoCampamento.jpg" %}
+<div class="row min-vh-50">
+  <div class="col-12">
+    <img src="{{ '/media/img/blanque.png' | prepend:site.baseurl }}" style="height:10rem" class="rounded-circle">
+    <div class="row">
+      <div class="col-6 mt-3 d-none d-sm-block">
+        <p>Software engineer and amateur musician living in Belgium (<a href="cv.html">my CV</a>)</p>
+        <p>I write occasionally on this <a href="blog.html">blog</a>.</p>
+        <p>Code side projects: <a href="/ltWords/web/index">LTWords</a>, <a href="/vkwebedit/">VKWebEdit</a>.</p>
+        <p>Some music: <a href="kd2x3.html">KD2X3</a>, <a href="canciones_de_campamento.html">Canciones de campamento</a>, <a href="retalls.html">Retalls</a></p>
+      </div>
+      <div class="col-11 mt-3 d-block d-sm-none">
+        <p>Software engineer and amateur musician living in Belgium</p>
+        <p>I write occasionally on this <a href="blog.html">blog</a>.</p>
+        <p>Code side projects: <a href="/ltWords/web/index">LTWords</a>, <a href="/vkwebedit/">VKWebEdit</a>.</p>
+        <p>Some music: <a href="kd2x3.html">KD2X3</a>, <a href="canciones_de_campamento.html">Canciones de campamento</a>, <a href="retalls.html">Retalls</a></p>
+      </div>
+    </div>
   </div>
 </div>
 

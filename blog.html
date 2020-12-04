@@ -8,15 +8,20 @@ title: Blog
   <ul class="list-unstyled">
     {% for post in site.posts %}
     <li class="post-summary">
-      <h4>
-      <small><time class="text-muted" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%a, %d %b %Y' }}</time></small>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-      </h4>
+      <div class="row">
+        <div class="col-md-2">
+        <time class="text-muted" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%a, %d %b %Y' }}</time></div>
+        <div class="col-md-10">
+          <h4>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          </h4>
+        </div>
+      </div>
     </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 
 </div>
 
