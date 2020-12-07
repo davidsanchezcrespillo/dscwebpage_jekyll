@@ -1,33 +1,7 @@
 ---
 layout: default
-title: "CV"
+title: "Publications"
 ---
-
-[LinkedIn profile](https://www.linkedin.com/in/davidsanchezcrespillo)
-
-__Work experience__
-
-  * __2012-now__. [European Commission](https://ec.europa.eu). Information and Communication Assistant.
-  * __2010-2012__. [Acapela Group](https://www.acapela-group.com) (Voice Software - Belgium). Software Engineer. 
-  * __2006-2010__. [Government of the Balearic Islands](http://www.caib.es) (Government - Spain). ICT Teacher. 
-  * __2000-2006__. __Gridsystems__ (HPC Software - Spain). Software Engineer. 
-  * __1998-2000__. [University of Balearic Islands](http://www.uib.es) (University - Spain). 3D Programmer and Researcher.
-  * __1997-1998__. __Infomallorca IAE__ (Touristic Services - Spain). Computer Operator. 
-
-__Education__
-
-  * [University of Balearic Islands](http://www.uib.es). Engineer in Computer Science.  __2000__
-  * [University of Balearic Islands](http://www.uib.es). Official Teaching Certificate. __2003__
-
-__Skills__
-
-  * Development (Java, PHP, Perl, C++, C#).
-  * Tools (Unit Testing, Continuous Integration, Version Control).
-  * Responsible, methodical, proactive, pragmatic, curious.
-
-Languages: __Spanish__ (Native), __Catalan__ (Native), __English__ (C2), __French__ (B2).
-
-__Publications__
 
 <div>
 {% include render_publications.html %}
