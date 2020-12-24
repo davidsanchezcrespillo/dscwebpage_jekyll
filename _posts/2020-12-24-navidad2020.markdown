@@ -1,0 +1,14 @@
+---
+layout: post
+title: Navidad 2020
+date: '2020-12-24 12:00:00'
+description: My Christmas Greetings for 2020.
+tracklist:
+  - title: Les anges dans nos campagnes
+    url: gloria_in_excelsis_deo_2020
+---
+
+¡Feliz Navidad! Bon Nadal! Merry Christmas! Joyeux Noël! Linksmų Šventų Kalėdų!
+
+{% include media_player.html %}
+
