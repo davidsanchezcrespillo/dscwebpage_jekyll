@@ -25,3 +25,5 @@ gem "minima"
 
 gem "html-proofer"
 
+
+gem "webrick", "~> 1.8"
