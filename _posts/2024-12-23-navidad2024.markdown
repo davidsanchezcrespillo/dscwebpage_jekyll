@@ -1,0 +1,17 @@
+---
+layout: post
+title: Navidad 2024
+date: '2024-12-23 12:00:00'
+description: My Christmas Greetings for 2024.
+tracklist:
+  - title: Xmas 2024
+    url: xmas2024
+---
+
+¡Feliz Navidad! Bon Nadal! Merry Christmas! Joyeux Noël! Linksmų Šventų Kalėdų!
+
+{% include media_player.html %}
+
+![Nuestro belén un año más...]({{ '/media/img/belen_2024.jpg' | prepend:site
+.baseurl }})
+{:responsive: .img-fluid}
